@@ -1,4 +1,4 @@
-#parallel-trapezoidal-integration-method-on-openmp  
+# parallel-trapezoidal-integration-method-on-openmp  
 This is the daily pratice No.202001 of the team for supercomputer in Southwest Petroleum University（西南石油大学超算与并行计算团队）.  
 The MathJax cannot be displayed rightly on github, you can download it and display it under other MarkDown viwevers.  
 # The structure of folders
